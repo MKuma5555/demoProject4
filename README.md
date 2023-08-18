@@ -2,6 +2,8 @@
 
 Are you ready to embark on a journey that's not only deliciously healthy but also incredibly social and inspiring? Say hello to DIET.MATE, the groundbreaking application that's about to revolutionize the way you approach your dietary goals!
 
+![Home page]https://github.com/MKuma5555/socialDiet_Project4/blob/main/image/Screen%20Shot%202023-08-18%20at%2010.29.38%20pm.png
+
 🎨 Vibrantly User-Friendly Interface: Brace yourself for a visual feast! DIET.MATE's front-end is a masterpiece, blending the latest HTML, CSS, JavaScript, REACT, and Bootstrap technologies. Get ready to be wowed by its stunning visuals and intuitive design.
 
 🔐 Unleash Your Inner VIP: Your journey begins with a grand entrance! Sign up and log in with style, thanks to the cutting-edge Express.js and Mongoose-powered backend. Your security and seamless experience are our top priorities.
